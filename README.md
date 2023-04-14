@@ -6,4 +6,4 @@ Remixed version of Clearvision with guides for noobs to customize the CSS!
 3. All backgrounds are slightly blurred.
 4. Smaller home icon.
 5. A built in guide in the CSS code explaining what the code does, what it is and how to change it.
-6. Link to Clearvision: https://github.com/ClearVision/ClearVision-v6
+Link to Clearvision: https://github.com/ClearVision/ClearVision-v6
