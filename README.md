@@ -6,5 +6,6 @@ Remixed version of Clearvision with a guide for noobs to customize the CSS!
 3. All backgrounds are slightly blurred.
 4. Smaller home icon.
 5. A built in guide in the CSS code explaining what the code does, what it is and how to change it.
+6. The user's icons are pushed up.
 ### **Link to Clearvision: https://github.com/ClearVision/ClearVision-v6**
 ### Download link: https://github.com/gobbamane/IceVision/releases/tag/Downloads
