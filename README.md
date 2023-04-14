@@ -1,7 +1,6 @@
 # IceVision
 Remixed version of Clearvision with guides for noobs to customize the CSS!
-#
-#Changes from Clearvision:
+# Changes from Clearvision:
 1. New home Icon instead of the Discord logo.
 2. New Ice background
 3. All backgrounds are slightly blurred
