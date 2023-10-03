@@ -1,5 +1,5 @@
 # IceVision ![Crates.io](https://img.shields.io/crates/l/W?style=plastic)
-Remixed version of Clearvision with a guide for noobs to customize the CSS!
+A Betterdisocrd client theme that's a remixed version of Clearvision with a guide for noobs to customize the CSS!
 # Changes from Clearvision:
 1. New home Icon instead of the Discord logo.
 2. New Ice background.
